@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 14 Pro",
+            "desc": "Apple iPhone 14th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "assets/images/Iphone.png"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 6 pro",
+            "desc": "Google Pixel phone 6th generation",
+            "price": 899,
+            "color": "#00ac51",
+            "image": "assets/images/pixelll.png"
+        },
+        {
+            "id": 3,
+            "name": "M2 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1199,
+            "color": "#e0bfae",
+            "image": "assets/images/M2R.png"
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "assets/images/ps5R.png"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Aipods Pro 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "assets/images/airpodR.png"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2023 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image": "assets/images/ipadR.png"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy S23 Ultra",
+            "desc": "Samsung Galaxy S23 Ultra 2023 edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "assets/images/s23R.png"
+        },
+        {
+            "id": 8,
+            "name": "Apple Watch 8",
+            "desc": "Apple Watch 8th generation",
+            "price": 699,
+            "color": "#7c95eb",
+            "image": "assets/images/applewatch.png"
+        }
+    ]
+}
